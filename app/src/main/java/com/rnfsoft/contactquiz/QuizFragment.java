@@ -36,7 +36,7 @@ import java.util.Set;
  */
 public class QuizFragment extends Fragment {
     private static final String TAG = "Contact Quiz";
-    private static final int FLAGS_IN_QUIZ = 3;
+    private static final int FLAGS_IN_QUIZ = 10;
     private List<String> fileNameList;
     private List<String> quizCountriesList;
     private Set<String> regionsSet;
