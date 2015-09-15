@@ -28,6 +28,10 @@ How to do:
 	![main_activity1](https://cloud.githubusercontent.com/assets/11301947/9871661/fd20980e-5b49-11e5-9453-af9b357bda15.png)
 
 	![main_activity2](https://cloud.githubusercontent.com/assets/11301947/9871666/1092f512-5b4a-11e5-87e0-1f2e0108a89d.png)
+	
+3. Adding asset folder
+
+
 
 
 
