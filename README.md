@@ -2,7 +2,7 @@ Codes from
 http://my.fit.edu/~vkepuska/ece5570/Code_Examples/FlagQuizGame/src/com/deitel/flagquizgame/FlagQuizGame.java
 https://youtu.be/hR4msogJ25k
 
-Time: 24 hr
+Developing Time: 24 hrs
 
 Level: 2/3
 
