@@ -7,7 +7,7 @@ Developing Time: 24 hrs
 
 Level: 2/3
 
-Device: Emulator and Galaxy 4S
+Testing Devices: Emulator and Galaxy 4S
 
 Testing: works with a change
 
