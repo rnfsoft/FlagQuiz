@@ -1,4 +1,4 @@
-Codes from 
+Codes from:
 http://my.fit.edu/~vkepuska/ece5570/Code_Examples/FlagQuizGame/src/com/deitel/flagquizgame/FlagQuizGame.java
 
 https://youtu.be/hR4msogJ25k
