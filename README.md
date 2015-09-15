@@ -23,6 +23,9 @@ How to do:
 
 	![preferences3](https://cloud.githubusercontent.com/assets/11301947/9871505/f714bc5c-5b48-11e5-8b0a-e1016f3e1942.png)
 
+2. Adding large-landscape activity_main.xml
+
+
 
 
 
