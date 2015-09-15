@@ -14,6 +14,7 @@ Testing: works with a change
 1. strings.xml : "default_region" North_America <--  North America, reason error occurs when no region is selected.
 
 How to do:
+
 1. Adding preferences.xml
 
 ![preferences1](https://cloud.githubusercontent.com/assets/11301947/9871466/b4e206b4-5b48-11e5-843e-d5ced3a4e932.png)
