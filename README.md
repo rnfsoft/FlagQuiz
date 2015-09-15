@@ -12,7 +12,15 @@ Testing Devices: Emulator and Galaxy 4S
 Testing: works with a change
 
 1. strings.xml : "default_region" North_America <--  North America, reason error occurs when no region is selected.
- 
+
+How to do:
+1. Adding preferences.xml
+
+
+
+
+
+Results:
 ![quiz](https://cloud.githubusercontent.com/assets/11301947/9871015/8c9090b6-5b45-11e5-988a-cabd51fedb34.png)
 ![incorrect](https://cloud.githubusercontent.com/assets/11301947/9871028/a540453e-5b45-11e5-81b7-4095bc97efaa.png)
 ![correct](https://cloud.githubusercontent.com/assets/11301947/9871043/b7f64ba6-5b45-11e5-8231-5ab1dfb4e71c.png)
